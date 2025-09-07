@@ -1,5 +1,5 @@
 
-# Engineering Thesis: Prediction of energy production in photovoltaic infrastructure based on weather and geographical conditions
+# Prediction of energy production in photovoltaic infrastructure based on weather and geographical conditions
 This repository contains the implementation of the engineering thesis project focused on **data scraping**, **model development** and **visualization**. The project demonstrates the use of modern programming techniques and tools to solve real-world problems, showcasing the application of theoretical knowledge in a practical context.
 
 ---
