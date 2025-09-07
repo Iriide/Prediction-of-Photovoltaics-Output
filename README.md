@@ -23,8 +23,8 @@ The project does not provide data for training and testing the models. The user 
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Iriide/Engineering-Thesis.git
-   cd Engineering-Thesis
+   git clone https://github.com/Iriide/Prediction-of-Photovoltaics-Output.git
+   cd Prediction-of-Photovoltaics-Output
    ```
 2. Install the required dependencies:
    ```bash
